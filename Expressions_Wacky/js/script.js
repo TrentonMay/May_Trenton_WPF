@@ -10,3 +10,5 @@ var depth = prompt ("Please enter the depth of the pool");
 var volume = length * width * depth;
 var totalGal = volume * 7.47;
 
+alert ("You will need " + totalGal.toFixed(2) + " to fill this pool ");
+
