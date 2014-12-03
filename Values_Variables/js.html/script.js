@@ -1,5 +1,3 @@
 
-var age = 20;
-
-var isStudent=false;
+var muppetNames= ["Kermit", "Miss Piggy","Gonzo"];
 
