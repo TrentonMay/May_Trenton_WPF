@@ -3,4 +3,4 @@
 var firstName = "Trent";
 var lastName = "May";
 var fullName = firstName + lastName;
-console.log(fullname);
+console.log(fullName);
