@@ -1,6 +1,5 @@
 
-var age; //declaration
-age = 20; //definition
-//storage container = value
+var age = 20;
 
-var yearOfBirth = 1994; 
+var isStudent=false;
+
