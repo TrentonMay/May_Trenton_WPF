@@ -8,4 +8,4 @@ var miles = prompt("Enter the amount of miles you will travel");//Tells user to 
 var gallons = miles / mpg;//This will calculate how many gallons you will need
 var total = gallons * ppg;//This will calculate the total price
 
-alert("You will use " + gallons + " gallons \n Which will cost you $" + total);
+alert("You will use " + gallons.toFixed(2) + " gallons \n Which will cost you $" + total.toFixed(2));
