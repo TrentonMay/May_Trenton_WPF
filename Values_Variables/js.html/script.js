@@ -1,9 +1,6 @@
 
-var yearBorn = 1994;
+var age; //declaration
+age = 20; //definition
+//storage container = value
 
-/*
-console.log("Hello World!");
-console.log(yearBorn);
-    */
-
-alert(yearBorn);
+var yearOfBirth = 1994; 
