@@ -17,6 +17,7 @@ var volume = length * width * depth;
 //Calculates the volume
 
 var totalGal = volume * 7.47;
+//Calculates the amount of gallons you need to fill the pool
 
 alert ("You will need " + totalGal.toFixed(2) + " gallons to fill this pool ");
 
