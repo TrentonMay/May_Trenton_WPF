@@ -9,7 +9,7 @@ var freq = prompt ("Enter how often there is a scan points \n in feet");//Tells 
 var totalScan = perimeter / freq;//Calculates how many scan points they have
 
 alert ("The number of scan point you will have is " + Math.floor(totalScan));
-
+//Tells user the end result
 
 
 
