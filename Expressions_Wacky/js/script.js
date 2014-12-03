@@ -2,7 +2,7 @@
 //We are calculating the amount of water needed in a pool
 
 alert ("We are calculating the amount of water need in your square pool \n Please enter in feet");
-
+//Telling user what we are doing
 
 var length = prompt ("Please enter the length of the pool in feet");
 var width = prompt ("Please enter the width of the pool in feet");
