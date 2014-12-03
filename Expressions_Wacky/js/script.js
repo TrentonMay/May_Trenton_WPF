@@ -11,7 +11,7 @@ var width = prompt ("Please enter the width of the pool in feet");
 //Tells user to enter width of the pool
 
 var depth = prompt ("Please enter the depth of the pool in feet");
-
+//Tells user to enter the depth of the pool
 
 var volume = length * width * depth;
 
