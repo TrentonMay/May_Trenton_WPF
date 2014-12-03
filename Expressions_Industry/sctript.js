@@ -8,6 +8,8 @@ var perimeter = width * 2 + length * 2;
 var freq = prompt ("Enter how often there is a scan point \n in feet");
 var totalScan = perimeter / freq;
 
+alert ("The number of scan point you will have is" + totalScan);
+
 
 
 
