@@ -6,4 +6,4 @@ var width = prompt("Enter the width of the living room");
 var length = prompt("Enter the length of the living room");
 var area = length * width;
 
-alert("The amount of carpet you need is" + area);
+alert("The amount of carpet you need is " + area + " square ft");
