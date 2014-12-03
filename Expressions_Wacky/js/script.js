@@ -14,7 +14,7 @@ var depth = prompt ("Please enter the depth of the pool in feet");
 //Tells user to enter the depth of the pool
 
 var volume = length * width * depth;
-
+//Calculates the volume
 
 var totalGal = volume * 7.47;
 
