@@ -7,5 +7,5 @@ var pizzas = 6;
 var totalSlices = slices * pizzas;
 var spp = totalSlices / people;
 
-console.log("Each person ate " + spp + " at the party");
+console.log("Each person ate " + spp + " slices at the party");
 
