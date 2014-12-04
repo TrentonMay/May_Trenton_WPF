@@ -15,7 +15,7 @@ secure [4] = secure[3] / secure[2];
 //var freq = prompt ("Enter how often there is a scan points \n in feet");//Tells user to enter how often there is a scan point
 //var totalScan = perimeter / freq;//Calculates how many scan points they have
 
-alert ("The number of scan point you will have is " + Math.floor(secure[4]));
+alert ("The number of scan points you will have is " + Math.floor(secure[4]));
 //Tells user the end result
 
 
