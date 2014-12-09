@@ -1,10 +1,11 @@
 //Conditionals
 
-var kidHeight = 46;
+var kidHeight = 49;
 var minHeight = 48;
-var sneakerLift = 2;
 
-if(kidHeight + sneakerLift > minHeight){
+if(kidHeight > minHeight){
     console.log("you can ride the coaster!");
 
+}else{
+    console.log("Sorry kid, you've got some growing to do.");
 }
