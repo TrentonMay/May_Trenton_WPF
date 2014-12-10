@@ -20,6 +20,6 @@ if(mod === "" || spendAbility === ""){
     }if(mod === "RBA"){
         if(spendAbility <= 5){
             alert ("You cannot buy the juice needed for your RBA, which is, " + rbaJuice + "mL " + "and costs " + "$" + rbaCost);
-        }
+        }else{
     }
 
