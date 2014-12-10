@@ -13,7 +13,10 @@ if (age == "" || isAlcoholic == ""){
             alert("Drink up!");
         }else{
             alert("Can't touch this");
-
         }
+
+        }else{
+        alert("Drink up!");
     }
+
 }
