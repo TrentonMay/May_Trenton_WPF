@@ -12,16 +12,20 @@ if(mod === "" || spendAbility === ""){
     alert("You have not entered the required information. Please refresh");
 }else{
     if(mod === "RDA"){
-        if(spendAbility >= 20){
+        if (spendAbility >= 20){
             alert("You can buy the juice needed for a RDA, which is, " + rdaJuice + "mL " + "and costs " + "$" + rdaCost);
+
         }else{
             alert("You cannot buy the juice needed for your RDA, which is, " + rdaJuice + "mL " + "and costs " + "$" + rdaCost);
+
         }
     }if(mod === "RBA"){
         if(spendAbility <= 5){
             alert ("You cannot buy the juice needed for your RBA, which is, " + rbaJuice + "mL " + "and costs " + "$" + rbaCost);
-        }else{
+
+        }else {
             alert("You can buy the juice needed for a RBA, which is, " + rbaJuice + "mL " + "and costs " + "$" + rbaCost);
         }
     }
+}
 
