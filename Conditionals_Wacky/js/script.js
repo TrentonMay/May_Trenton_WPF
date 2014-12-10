@@ -1,3 +1,4 @@
+//Trenton May, Scalable Data Infrastructures, 12/10/14
 //Industrial conditional
 //This script will tell you if you can drink something
 
