@@ -18,4 +18,6 @@ if(mod === "" || spendAbility === ""){
             alert("You cannot buy the juice needed for your RDA, which is, " + rdaJuice + "mL " + "and costs " + "$" + rdaCost);
         }
     }if(mod === "RBA"){
+        if(spendAbility <= 5){
+    }
 
