@@ -4,3 +4,7 @@
 var age = prompt("How old are you?");
 var isAlcoholic = prompt("Is the drink alcoholic");
 var legalAge = 21;
+
+if (age == "" || isAlcoholic == ""){
+    
+}
