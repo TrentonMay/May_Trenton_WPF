@@ -15,3 +15,5 @@ if(mod === "" || spendAbility === ""){
         if (spendAbility >= 20) {
             alert("You can buy the juice needed for a RDA, which is, " + rdaJuice + "mL " + "and costs " + "$" + rdaCost);
         }else{
+            alert("You cannot buy the juice needed for your RDA, which is, " + rdaJuice + "mL " + "and costs " + "$" + rdaCost);
+        }
