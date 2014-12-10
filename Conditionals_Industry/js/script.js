@@ -10,5 +10,6 @@ var ppd = workers * ppm * workday; //how many parts all the workers can make an 
 //now we will make sure they answered the questions with our first if statement
 if (workers === "" || partsNeeded === "") {
     alert("You did not enter the required information. Please refresh the page.");
+}else {
+    (ppd >= partsNeeded) ? alert("You will not have to work overtime today.") : alert("You will have to work overtime today :(");
 }
-(ppd >= partsNeeded) ? alert("You will not have to work overtime today.") : alert("You will have to work overtime today :(");
