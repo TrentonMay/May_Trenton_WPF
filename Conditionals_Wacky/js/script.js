@@ -12,6 +12,7 @@ if (age == "" || isAlcoholic == ""){
         if (age >= legalAge) {
             alert("Drink up!");
         }else{
+            alert("Can't touch this");
 
         }
     }
