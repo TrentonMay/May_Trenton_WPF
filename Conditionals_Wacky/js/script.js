@@ -11,10 +11,9 @@ if (age == "" || isAlcoholic == "") {
 } else {
     if (isAlcoholic == "yes" && age >= legalAge){
             alert("Drink up!");
-        } else if(isAlcoholic == "yes" && age < legalAge){
-            alert("Cannot drink beverage");
-        }
-    } else {
+    }else if(isAlcoholic == "yes" && age < legalAge){
+        alert("Cannot drink beverage");
+    }else {
         alert("Drink up!");
     }
 }
