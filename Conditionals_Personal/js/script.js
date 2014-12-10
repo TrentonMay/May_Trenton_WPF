@@ -21,5 +21,7 @@ if(mod === "" || spendAbility === ""){
         if(spendAbility <= 5){
             alert ("You cannot buy the juice needed for your RBA, which is, " + rbaJuice + "mL " + "and costs " + "$" + rbaCost);
         }else{
+            alert("You can buy the juice needed for a RBA, which is, " + rbaJuice + "mL " + "and costs " + "$" + rbaCost);
+        }
     }
 
