@@ -4,3 +4,4 @@
 var mod = prompt ("Do you have a RDA or a RBA?");
 var spendAbility = prompt ("How much money are you willing to spend?");
 var rdaJuice = 30;
+var rbaJuice = 10;
