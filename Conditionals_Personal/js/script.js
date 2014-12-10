@@ -5,8 +5,8 @@ var mod = prompt ("Do you have a RDA or a RBA?");
 var spendAbility = prompt ("How much money are you willing to spend?");
 var rdaJuice = 30; //this is the amount of juice you will need for a RDA in mL
 var rbaJuice = 10; //this is the amount of juice you will need for a RBA in mL
-var rdaCost = 20;
-var rbaCost = 5;
+var rdaCost = 20; //this is the cost of the RDA juice
+var rbaCost = 5;  //this is the cost of the RBA juice
 
 if(mod === "" || spendAbility === ""){
     alert("You have not entered the required information. Please refresh");
