@@ -3,3 +3,4 @@
 
 var workers = prompt("How many workers do you have?");
 var partsNeeded = prompt("How many parts do you need?");
+var workday = 8;
