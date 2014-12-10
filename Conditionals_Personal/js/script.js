@@ -6,3 +6,4 @@ var spendAbility = prompt ("How much money are you willing to spend?");
 var rdaJuice = 30;
 var rbaJuice = 10;
 var rdaCost = 20;
+var rbaCost = 5;
