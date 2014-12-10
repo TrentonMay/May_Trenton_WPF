@@ -10,3 +10,5 @@ var rbaCost = 5;
 
 if(mod === "" || spendAbility === ""){
     alert("You have not entered the required information. Please refresh");
+}else{
+    if(mod === "RDA"){
