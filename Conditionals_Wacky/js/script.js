@@ -8,5 +8,5 @@ var legalAge = 21;
 if (age == "" || isAlcoholic == ""){
     alert("You did not enter the required information. Please refresh the page.");
 }else{
-    
+    if (isAlcoholic == "yes") {
 }
