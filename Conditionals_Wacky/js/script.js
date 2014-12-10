@@ -6,5 +6,5 @@ var isAlcoholic = prompt("Is the drink alcoholic");
 var legalAge = 21;
 
 if (age == "" || isAlcoholic == ""){
-    
+    alert("You did not enter the required information. Please refresh the page.");
 }
