@@ -3,7 +3,7 @@
 
 
 var checkBuns = function(buns){  //set's up anonymous function
-    if(buns >= 100){
+    if(buns >= 100){  //Set's the standard for what is a good amount of buns
         return false;
     }else{
         return true;
