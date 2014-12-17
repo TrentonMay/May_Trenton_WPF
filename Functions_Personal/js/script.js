@@ -6,7 +6,7 @@ function tankVol(length, width, height, fishInches){
     console.log(length * width * height * 7.47 / fishInches);
 }
 
-
+tankVol(3, 5, 7, 10);
 
 
 
