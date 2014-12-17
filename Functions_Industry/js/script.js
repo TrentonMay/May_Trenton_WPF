@@ -1,4 +1,5 @@
-//Functions Industry
+//Trenton May, Scalable Data Infrastructures 16/12/14
+//Function_Industry
 //Calculating how many buns Arby's needs to order for their sandwiches
 
 
