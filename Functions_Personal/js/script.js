@@ -1,12 +1,14 @@
 //Function for Personal
-//How many guppies can you have in your tank
-//One guppy per gallon
+//How many fish can you have in your tank
+//One inch of fish per gallon
 
 function tankVol(length, width, height){
     return length * width * height;
 }
 
-gallons = tankVol(30, 40, 67) * 7.47;
+tankGal = tankVol(30, 40, 67) * 7.47;
+fish =
+
 
 
 
