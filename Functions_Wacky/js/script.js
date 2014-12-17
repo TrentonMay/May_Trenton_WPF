@@ -7,7 +7,7 @@ function canDrive(snow){ //Snow will be in inches
     if(snow == 0){
         console.log("You can drive!"); //If there is no snow you can drive
     }else if(snow > 0 && snow <=3){
-        console.log("Please drive cautiously.");
+        console.log("Please drive cautiously."); //If there is more than no snow and less than 3 inches then you need to drive carefully
     }else{
         console.log("It's too dangerous to drive!");
     }
