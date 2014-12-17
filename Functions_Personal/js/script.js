@@ -1,2 +1,2 @@
 //Function for Personal
-//How many video games can you buy?
+//How many fish can you have in your tank
