@@ -1,16 +1,8 @@
 //Functions Screencasts
 
-function outptMsg(){
-    console.log("Hello World");
+function dogYears(age){
+    var dogYears = age * 7;
+    console.log("Sparky is " + dogYears + " years old")
 }
 
-var width = 5;
-
-function calcArea(){
-    var width = 20;
-    var height = 30;
-    var area = width * height;
-    console.log(area);
-}
-
-calcArea();
+dogYears(4);
