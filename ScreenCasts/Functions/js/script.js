@@ -1,10 +1,12 @@
 //Functions Screencasts
 
-var total = calcArea(30, 20);
 
-function calcArea(w, h){
+var calcArea = function(w, h){
     var area = w * h;
     return area;
 }
 
-console.log(total);
+var a = calcArea(20, 30);
+
+console.log(a);
+
