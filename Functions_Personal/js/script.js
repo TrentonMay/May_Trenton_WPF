@@ -8,6 +8,7 @@ function tankVol(length, width, height, fishInches){ //fishInches = average amou
 }
 
 tankVol(3, 5, 7, 10);
+tankVol(2, 4, 3, 4);
 
 
 
