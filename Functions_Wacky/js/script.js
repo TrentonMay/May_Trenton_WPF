@@ -7,7 +7,7 @@ function canDrive(snow){
     if(snow == 0){
         console.log("You can drive!");
     }else if(snow > 0 && snow <=3){
-
+        console.log("Please drive cautiously");
     }
 
 
