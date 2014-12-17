@@ -2,7 +2,7 @@
 //Calculating how many buns Arby's needs to order for their sandwiches
 
 
-var checkBuns = function(buns){
+var checkBuns = function(buns){  //set's up anonymous function
     if(buns >= 100){
         return false;
     }else{
