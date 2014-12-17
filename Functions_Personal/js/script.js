@@ -2,12 +2,13 @@
 //How many fish can you have in your tank
 //One inch of fish per gallon
 
-function tankVol(length, width, height){
-    console.log(length * width * height);
+function tankVol(length, width, height, fishInches){
+    console.log(length * width * height * 7.47 / fishInches);
 }
 
-tankGal = tankVol(30, 40, 67) * 7.47;
-fish =
+
+
+
 
 
 
