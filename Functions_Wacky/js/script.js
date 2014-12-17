@@ -13,3 +13,4 @@ function canDrive(snow){
     }
 }
 
+canDrive(9);
