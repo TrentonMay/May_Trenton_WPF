@@ -3,7 +3,7 @@
 //One inch of fish per gallon
 
 function tankVol(length, width, height){
-    return length * width * height;
+    console.log(length * width * height);
 }
 
 tankGal = tankVol(30, 40, 67) * 7.47;
