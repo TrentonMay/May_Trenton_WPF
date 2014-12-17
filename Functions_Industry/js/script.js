@@ -11,6 +11,7 @@ var checkBuns = function(buns){
 
 }
 checkBuns(50) ? console.log("You need more buns") : console.log("You don't need more buns");
+checkBuns(200) ? console.log("You need more buns") : console.log("You don't need more buns");
 
 
 
