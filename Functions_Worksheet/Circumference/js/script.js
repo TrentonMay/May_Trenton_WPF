@@ -10,5 +10,5 @@ function calcCirc(diameter){
     return diameter * 3.14;
 }
 
-console.log("The circumference of your circle is " + calcCirc(3));
+
 
