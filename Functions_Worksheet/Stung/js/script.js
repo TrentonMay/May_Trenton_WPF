@@ -1,11 +1,11 @@
 //Stung
 
-var death = weight * 8.666666667;
+var weight = 45;
 var kill = beeKill(45);
-console.log("It takes " + beeKill(45).toFixed(2) + " stings to kill this animal");
+console.log("It takes " + kill.toFixed(2) + " stings to kill this animal");
 
 function beeKill(weight){
-    return death;
+    return weight * 8.666666667;
 
 }
 
