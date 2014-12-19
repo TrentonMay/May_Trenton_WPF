@@ -1,7 +1,7 @@
 //Circumference
 
 var radius = 5; //Here where I am entering the radius of the circle
-var circumference = calcCirc(radius * 2);
+var circumference = calcCirc(radius * 2);//This is where I'm calling on the function to get the circumference
 
 console.log("The circumference of your circle is " + circumference.toFixed(2));
 
