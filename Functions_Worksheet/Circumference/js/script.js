@@ -5,5 +5,5 @@ function calcCirc(radius){
     return circ;
 }
 
-console.log("The circumference of your circle is" + calcCirc(23));
+console.log("The circumference of your circle is " + calcCirc(3));
 
